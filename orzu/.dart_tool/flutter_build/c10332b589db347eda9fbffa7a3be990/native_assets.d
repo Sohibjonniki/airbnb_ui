@@ -1,0 +1,1 @@
+ /home/sohibjon/dasturlar/orzugrand/orzu/.dart_tool/flutter_build/c10332b589db347eda9fbffa7a3be990/native_assets.yaml: 

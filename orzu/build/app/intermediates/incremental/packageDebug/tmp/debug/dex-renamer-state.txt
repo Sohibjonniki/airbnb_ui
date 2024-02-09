@@ -1,0 +1,4 @@
+#Thu Feb 08 13:20:27 UZT 2024
+base.0=/home/sohibjon/dasturlar/orzugrand/orzu/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,12 @@
+/home/sohibjon/dasturlar/orzugrand/orzu/build/linux/x64/debug/bundle/orzu
+/home/sohibjon/dasturlar/orzugrand/orzu/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/sohibjon/dasturlar/orzugrand/orzu/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/sohibjon/dasturlar/orzugrand/orzu/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/sohibjon/dasturlar/orzugrand/orzu/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/sohibjon/dasturlar/orzugrand/orzu/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/sohibjon/dasturlar/orzugrand/orzu/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/sohibjon/dasturlar/orzugrand/orzu/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/sohibjon/dasturlar/orzugrand/orzu/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/sohibjon/dasturlar/orzugrand/orzu/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/sohibjon/dasturlar/orzugrand/orzu/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/sohibjon/dasturlar/orzugrand/orzu/build/linux/x64/debug/bundle/data/flutter_assets/version.json
